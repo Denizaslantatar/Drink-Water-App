@@ -1,5 +1,5 @@
 
-# Drink Water App
+# Drink Water Web App
 
 This project is a simple web application to remind users to drink water regularly throughout the day. It prompts users to take a break and have a glass of water at regular intervals.
 
